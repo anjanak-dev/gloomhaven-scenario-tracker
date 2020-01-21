@@ -1,2 +1,2 @@
 load('data/gloomTree.mat')
-p = plot(G);
+p = plotGloom(G);
