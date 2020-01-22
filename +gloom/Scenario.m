@@ -1,4 +1,4 @@
-classdef Scenarios
+classdef Scenario
     enumeration
         BlackBarrow_1
         BarrowLair_2
